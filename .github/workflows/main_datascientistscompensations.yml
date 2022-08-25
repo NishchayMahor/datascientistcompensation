@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'datascientistscompensations'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73C2115C575842E7A8E39D10DB16B4E7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E174F313B6394F41B364956C992FFC94 }}
